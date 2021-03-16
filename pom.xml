@@ -4,12 +4,12 @@
 
     <groupId>test</groupId>
     <artifactId>test</artifactId>
-    <version>1.1</version>
+    <version>1.1-SNAPSHOT</version>
 
     <scm>
-        <connection>scm:git:https://ukglasas03.mottmac.group.int/bitbucket/scm/twni/trafficwatchni.git</connection>
-        <developerConnection>scm:git:https://ukglasas03.mottmac.group.int/bitbucket/scm/twni/trafficwatchni.git</developerConnection>
-        <url>https://ukglasas03.mottmac.group.int/bitbucket/scm/twni/trafficwatchni.git</url>
+        <connection>scm:git:https://github.com/CitronBaBa/testMVNRelease</connection>
+        <developerConnection>scm:git:https://github.com/CitronBaBa/testMVNRelease</developerConnection>
+        <url>https://https://github.com/CitronBaBa/testMVNRelease</url>
         <tag>test-1.1</tag>
     </scm>
     <build>
